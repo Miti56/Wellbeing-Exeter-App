@@ -1,0 +1,126 @@
+h1 {
+    font-family:sans-serif;
+    font-size: 5vh;
+    margin: 10px;
+    margin-left: 0;
+}
+
+h3 {
+    font-family: sans-serif;
+}
+
+h4 {
+    font-family:sans-serif;
+}
+
+p {
+    font-family:sans-serif;
+}
+
+.searchbar {
+    border-radius: 15px;
+    border: 1px solid lightgrey;
+    padding: 5px;
+    font-family: sans-serif;
+    padding-left: 10px;
+    width: 90vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.nav-bar a {
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+    font-family: sans-serif;
+    color: black;
+    text-decoration: none;
+}
+
+.nav-bar a:hover {
+    background-color: lightgrey;
+    color: black;
+}
+
+.nav-bar a.active {
+    background-color: lightskyblue;
+    color: black;
+}
+
+
+.button {
+    border-radius: 10px;
+    border: 1px solid dodgerblue;
+    background-color: dodgerblue;
+    font-family: sans-serif;
+    color: white;
+    padding: 5px;
+    width: 90vw;
+    font-size: medium;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+label {
+    font-family:sans-serif;
+}
+
+.forum-post {
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.user-profile-forum {
+    width: 10%;
+    height: 100%;
+}
+
+.forum-profile-photo {
+    width:50px;
+    float:left;
+}
+
+.forum-user-name {
+    font-size: 10px;
+}
+
+textarea {
+    width: 90vw;
+    height: 50vh;
+}
+
+.forum-post-title {
+    padding: 5px;
+    width: 50vw;
+    height: 30px;
+}
+
+label  {
+    display: inline-block;
+}
+
+.forum-link {
+    background: none;
+    border: none;
+    font-size: medium;
+    font-family: sans-serif;
+    color:dodgerblue;
+    text-decoration: none;
+    padding-left: 10px;
+    margin-bottom: 1px;
+}
+
+.content-preview {
+    margin-left: 20px;
+}
+
+.post-title {
+    margin-left: 20px;
+}
