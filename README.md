@@ -2,14 +2,7 @@
 ECM2434 - Group Project.
 Trello: https://trello.com/b/0e8vgydb/group-x-kanban
 
-# Group Members:
-1. Leo Thomas
-2. Aycan Kerr
-3. Scott Deverinne
-4. Miguel Monereo
-5. Paige Watson
-6. Charlie Wells
-7. Cristovao Zhu
+
 
 
 # An application to help students reconnect in a blended learning environment.
